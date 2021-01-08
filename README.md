@@ -7,7 +7,7 @@ A great example repo you can fork to your heart’s content, that serves as a la
 
 The first thing you want to do with this repo is quite likely [**fork it**](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).  Use the Fork button in the top-right section of the page to do this.
 
-Once you’re on your fork, you can experiment however you like with it, play with [branches](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches), [issues](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-issues), [milestones](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-milestones), [labels](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/managing-labels), the [wiki](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/about-wikis), and more.
+Once you’re on your fork, you can experiment however you like with it, play with [branches](https://guides.github.com/introduction/flow/), [issues](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-issues), [milestones](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-milestones), [labels](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/managing-labels), the [wiki](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/about-wikis), and more.
 
 ## What’s in there?
 
